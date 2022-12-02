@@ -1,0 +1,2055 @@
+{
+  "products": [
+    {
+      "ariaId": 1,
+      "isin": "",
+      "name": "AC ADVANTAGE-CREDIT STRATEGIES, FIL   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 2,
+      "isin": "ES0190055030",
+      "name": "AC ADVANTAGE-CREDIT STRATEGIES, FIL   \"FF\"",
+      "bbgTicker": "ES0190055030 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 3,
+      "isin": "ES0190055022",
+      "name": "AC ADVANTAGE-CREDIT STRATEGIES, FIL   \"FI\"",
+      "bbgTicker": "ES0190055022 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 4,
+      "isin": "ES0190055014",
+      "name": "AC ADVANTAGE-CREDIT STRATEGIES, FIL   \"FR\"",
+      "bbgTicker": "ES0190055014 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 5,
+      "isin": "ES0190055006",
+      "name": "AC ADVANTAGE-CREDIT STRATEGIES, FIL   \"FSI\"",
+      "bbgTicker": "ES0190055006 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 11,
+      "isin": "",
+      "name": "ARCANO PARTNERS FUND, FI   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 12,
+      "isin": "ES0109848004",
+      "name": "ARCANO PARTNERS FUND, FI   \"A\"",
+      "bbgTicker": "ES0109848004 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 13,
+      "isin": "ES0109848012",
+      "name": "ARCANO PARTNERS FUND, FI   \"I\"",
+      "bbgTicker": "ES0109848012 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 14,
+      "isin": "ES0109848020",
+      "name": "ARCANO PARTNERS FUND, FI   \"P\"",
+      "bbgTicker": "ES0109848020 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 20,
+      "isin": "",
+      "name": "ARCANO PRIVATE DEBT, FIL   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 21,
+      "isin": "ES0109743007",
+      "name": "ARCANO PRIVATE DEBT, FIL   \"A\"",
+      "bbgTicker": "ES0109743007 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 22,
+      "isin": "ES0109743015",
+      "name": "ARCANO PRIVATE DEBT, FIL   \"B\"",
+      "bbgTicker": "ES0109743015 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 23,
+      "isin": "ES0109743023",
+      "name": "ARCANO PRIVATE DEBT, FIL   \"C\"",
+      "bbgTicker": "ES0109743023 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 24,
+      "isin": "ES0109743031",
+      "name": "ARCANO PRIVATE DEBT, FIL   \"D\"",
+      "bbgTicker": "ES0109743031 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 30,
+      "isin": "",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 31,
+      "isin": "ES0109924003",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"A1\"",
+      "bbgTicker": "ES0109924003 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 32,
+      "isin": "ES0109924011",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"A2\"",
+      "bbgTicker": "ES0109924011 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 33,
+      "isin": "ES0109924045",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"A3\"",
+      "bbgTicker": "ES0109924045 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 34,
+      "isin": "ES0109924060",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"A4\"",
+      "bbgTicker": "ES0109924060 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 35,
+      "isin": "ES0109924029",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"D1\"",
+      "bbgTicker": "ES0109924029 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 36,
+      "isin": "ES0109924037",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"D2\"",
+      "bbgTicker": "ES0109924037 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 37,
+      "isin": "ES0109924052",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"D3\"",
+      "bbgTicker": "ES0109924052 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 38,
+      "isin": "ES0109924078",
+      "name": "EUROPEAN INCOME FUND - ESG SELECTION, FIL   \"D4\"",
+      "bbgTicker": "ES0109924078 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 44,
+      "isin": "",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 45,
+      "isin": "ES0109869034",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"IA\"",
+      "bbgTicker": "ES0109869034 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 46,
+      "isin": "ES0109869026",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"ID\"",
+      "bbgTicker": "ES0109869026 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 47,
+      "isin": "ES0109869018",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"RA\"",
+      "bbgTicker": "ES0109869018 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 48,
+      "isin": "ES0109869000",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"RD\"",
+      "bbgTicker": "ES0109869000 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 49,
+      "isin": "ES0109869042",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"FA\"",
+      "bbgTicker": "ES0109869042 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 50,
+      "isin": "ES0109869059",
+      "name": "EUROPEAN SENIOR SECURED LOAN FUND - ESG SELECTION, FIL   \"FD\"",
+      "bbgTicker": "ES0109869059 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 51,
+      "isin": "ES0109869109",
+      "name": "EUROPEAN SENIOR FLOATING RATE FUND - ESG SELECTION, FIL   \"NRA\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 52,
+      "isin": "ES0109869083",
+      "name": "EUROPEAN SENIOR FLOATING RATE FUND - ESG SELECTION, FIL   \"NIA\"",
+      "bbgTicker": "ES0109869083 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 53,
+      "isin": "ES0109869091",
+      "name": "EUROPEAN SENIOR FLOATING RATE FUND - ESG SELECTION, FIL   \"NID\"",
+      "bbgTicker": "ES0109869091 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 54,
+      "isin": "ES0109869117",
+      "name": "EUROPEAN SENIOR FLOATING RATE FUND - ESG SELECTION, FIL   \"NRD\"",
+      "bbgTicker": "ES0109869117 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 55,
+      "isin": "ES0109869067",
+      "name": "EUROPEAN SENIOR FLOATING RATE FUND - ESG SELECTION, FIL   \"CA\"",
+      "bbgTicker": "ES0109869067 Equity",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 56,
+      "isin": "",
+      "name": "ARCANO CAPITAL BP I, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 57,
+      "isin": "ES0109922031",
+      "name": "ARCANO CAPITAL BP I, FCR",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 63,
+      "isin": "",
+      "name": "ARCANO CAPITAL I, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 64,
+      "isin": "ES0109933038",
+      "name": "ARCANO CAPITAL I, FCR   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 65,
+      "isin": "ES0109933038",
+      "name": "ARCANO CAPITAL I, FCR   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 71,
+      "isin": "",
+      "name": "ARCANO CAPITAL X, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 72,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 73,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \" A´ \"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 74,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 75,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \" B´ \"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 76,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \" B´´ \"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 77,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \"C\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 78,
+      "isin": "ES0109867004",
+      "name": "ARCANO CAPITAL X, FCR   \"D\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 84,
+      "isin": "",
+      "name": "ARCANO CAPITAL XI, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 85,
+      "isin": "ES0109868002",
+      "name": "ARCANO CAPITAL XI, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 86,
+      "isin": "ES0109868010",
+      "name": "ARCANO CAPITAL XI, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 87,
+      "isin": "ES0109868028",
+      "name": "ARCANO CAPITAL XI, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 88,
+      "isin": "ES0109868036",
+      "name": "ARCANO CAPITAL XI, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 89,
+      "isin": "ES0109868044",
+      "name": "ARCANO CAPITAL XI, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 90,
+      "isin": "ES0109868051",
+      "name": "ARCANO CAPITAL XI, FCR   \"C1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 91,
+      "isin": "ES0109868069",
+      "name": "ARCANO CAPITAL XI, FCR   \"C2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 92,
+      "isin": "ES0109868077",
+      "name": "ARCANO CAPITAL XI, FCR   \"D\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 98,
+      "isin": "",
+      "name": "ARCANO CAPITAL XII, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 99,
+      "isin": "ES0109791006",
+      "name": "ARCANO CAPITAL XII, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 100,
+      "isin": "ES0109791022",
+      "name": "ARCANO CAPITAL XII, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 101,
+      "isin": "ES0109791048",
+      "name": "ARCANO CAPITAL XII, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 102,
+      "isin": "ES0109791063",
+      "name": "ARCANO CAPITAL XII, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 103,
+      "isin": "ES0109791089",
+      "name": "ARCANO CAPITAL XII, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 104,
+      "isin": "ES0109791097",
+      "name": "ARCANO CAPITAL XII, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 105,
+      "isin": "ES0109791105",
+      "name": "ARCANO CAPITAL XII, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 106,
+      "isin": "ES0109791113",
+      "name": "ARCANO CAPITAL XII, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 107,
+      "isin": "ES0109791014",
+      "name": "ARCANO CAPITAL XII, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 108,
+      "isin": "ES0109791030",
+      "name": "ARCANO CAPITAL XII, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 109,
+      "isin": "ES0109791055",
+      "name": "ARCANO CAPITAL XII, FCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 110,
+      "isin": "ES0109791071",
+      "name": "ARCANO CAPITAL XII, FCR   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 111,
+      "isin": "",
+      "name": "ARCANO CAPITAL XII, FCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 116,
+      "isin": "",
+      "name": "ARCANO EARTH FUND, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 117,
+      "isin": "ES0109835001",
+      "name": "ARCANO EARTH FUND, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 118,
+      "isin": "ES0109835019",
+      "name": "ARCANO EARTH FUND, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 119,
+      "isin": "ES0109835027",
+      "name": "ARCANO EARTH FUND, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 120,
+      "isin": "ES0109835035",
+      "name": "ARCANO EARTH FUND, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 121,
+      "isin": "ES0109835043",
+      "name": "ARCANO EARTH FUND, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 122,
+      "isin": "ES0109835050",
+      "name": "ARCANO EARTH FUND, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 123,
+      "isin": "ES0109835068",
+      "name": "ARCANO EARTH FUND, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 124,
+      "isin": "ES0109835076",
+      "name": "ARCANO EARTH FUND, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 125,
+      "isin": "ES0109835084",
+      "name": "ARCANO EARTH FUND, FCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 131,
+      "isin": "",
+      "name": "ARCANO GLOBAL OPPORTUNITY FUND II, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 132,
+      "isin": "ES0109934002",
+      "name": "ARCANO GLOBAL OPPORTUNITY FUND II, FCR   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 133,
+      "isin": "ES0109934002",
+      "name": "ARCANO GLOBAL OPPORTUNITY FUND II, FCR   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 139,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND BP II, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 140,
+      "isin": "ES0109925000",
+      "name": "ARCANO SECONDARY FUND BP II, FCR",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 146,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND II, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 147,
+      "isin": "ES0109935009",
+      "name": "ARCANO SECONDARY FUND II, FCR   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 148,
+      "isin": "ES0109935009",
+      "name": "ARCANO SECONDARY FUND II, FCR   \" A´ \"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 149,
+      "isin": "ES0109935009",
+      "name": "ARCANO SECONDARY FUND II, FCR   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 155,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 156,
+      "isin": "ES0109744005",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 157,
+      "isin": "ES0109744021",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 158,
+      "isin": "ES0109744047",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 159,
+      "isin": "ES0109744062",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 160,
+      "isin": "ES0109744088",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 161,
+      "isin": "ES0109744104",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 162,
+      "isin": "ES0109744120",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 163,
+      "isin": "ES0109744146",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 164,
+      "isin": "ES0109744161",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 165,
+      "isin": "ES0109744013",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 166,
+      "isin": "ES0109744039",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 167,
+      "isin": "ES0109744054",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 168,
+      "isin": "ES0109744070",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 169,
+      "isin": "ES0109744096",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 170,
+      "isin": "ES0109744112",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 171,
+      "isin": "ES0109744138",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 172,
+      "isin": "ES0109744153",
+      "name": "ARCANO SECONDARY FUND XIV, FCR   \"B8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 178,
+      "isin": "",
+      "name": "ARCANO VENTURES, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 179,
+      "isin": "ES0109854002",
+      "name": "ARCANO VENTURES, FCR   \"A\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 180,
+      "isin": "ES0109854002",
+      "name": "ARCANO VENTURES, FCR   \"B\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 186,
+      "isin": "",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 187,
+      "isin": "ES0168063008",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 188,
+      "isin": "ES0168063016",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 189,
+      "isin": "ES0168063024",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 190,
+      "isin": "ES0168063032",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 191,
+      "isin": "ES0168063040",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 192,
+      "isin": "ES0168063057",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 193,
+      "isin": "ES0168063065",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 194,
+      "isin": "ES0168063073",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 195,
+      "isin": "ES0168063081",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 196,
+      "isin": "ES0168063099",
+      "name": "BALBOA VENTURE INVESTMENTS, FCR   \"A10\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 202,
+      "isin": "",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 203,
+      "isin": "LU1441637458",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"AI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 204,
+      "isin": "LU1441637532",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"AI\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 205,
+      "isin": "LU1441637615",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"FCI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 206,
+      "isin": "LU1441637706",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"FCI\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 207,
+      "isin": "LU1441637888",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"SCI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 208,
+      "isin": "LU1441637961",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"SCI\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 209,
+      "isin": "LU1441638001",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"PBI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 210,
+      "isin": "",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE, SCA - SICAR   \"AGI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 216,
+      "isin": "",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE II, SCA - SICAR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 217,
+      "isin": "LU1441638266",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE II, SCA - SICAR   \"AI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 218,
+      "isin": "LU1441638340",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE II, SCA - SICAR   \"FCI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 219,
+      "isin": "LU1441638423",
+      "name": "ARCANO SPANISH OPPORTUNITY REAL ESTATE II, SCA - SICAR   \"SCI\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 225,
+      "isin": "",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 226,
+      "isin": "LU1737518859",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 227,
+      "isin": "LU1737519584",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"A\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 228,
+      "isin": "LU1737518933",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 229,
+      "isin": "LU1737519667",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"B\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 230,
+      "isin": "LU1737519154",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"C\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 231,
+      "isin": "LU1737519824",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"C\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 232,
+      "isin": "LU1737519238",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"D\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 233,
+      "isin": "LU1737520087",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"D\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 234,
+      "isin": "LU1737519311",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"E\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 235,
+      "isin": "LU1737520160",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"E\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 236,
+      "isin": "LU1737519402",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SCA - SICAR   \"F\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 237,
+      "isin": "LU1737520244",
+      "name": "ARCANO SPANISH VALUE ADDED REAL ESTATE II, SICAR   \"F\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 243,
+      "isin": "",
+      "name": "ARCANO VENTURE CAPITAL INVESTMENTS, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 244,
+      "isin": "ES0109849002",
+      "name": "ARCANO VENTURE CAPITAL INVESTMENTS, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 250,
+      "isin": "",
+      "name": "ARCANO CAPITAL XII, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 251,
+      "isin": "ES0109776007",
+      "name": "ARCANO CAPITAL XII, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 252,
+      "isin": "ES0109776015",
+      "name": "ARCANO CAPITAL XII, SCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 253,
+      "isin": "ES0109776023",
+      "name": "ARCANO CAPITAL XII, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 254,
+      "isin": "ES0109776031",
+      "name": "ARCANO CAPITAL XII, SCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 255,
+      "isin": "ES0109776049",
+      "name": "ARCANO CAPITAL XII, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 256,
+      "isin": "ES0109776056",
+      "name": "ARCANO CAPITAL XII, SCR   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 257,
+      "isin": "ES0109776064",
+      "name": "ARCANO CAPITAL XII, SCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 263,
+      "isin": "",
+      "name": "ARCANO EARTH, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 264,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 265,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 266,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 267,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 268,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 269,
+      "isin": "ES0109741001",
+      "name": "ARCANO EARTH, SCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 275,
+      "isin": "",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 276,
+      "isin": "ES0109836009",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 277,
+      "isin": "ES0109836017",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 278,
+      "isin": "ES0109836025",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 279,
+      "isin": "ES0109836033",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 280,
+      "isin": "ES0109836041",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 281,
+      "isin": "ES0109836058",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 282,
+      "isin": "ES0109836066",
+      "name": "ARCANO EARTH INFRAESTRUCTURAS SOSTENIBLES, SCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 288,
+      "isin": "",
+      "name": "BALBOA VENTURES, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 289,
+      "isin": "ES0107706006",
+      "name": "BALBOA VENTURES, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 290,
+      "isin": "ES0107706022",
+      "name": "BALBOA VENTURES, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 296,
+      "isin": "",
+      "name": "ARCANO EARTH FUND II, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 297,
+      "isin": "ES0109792004",
+      "name": "ARCANO EARTH FUND II, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 298,
+      "isin": "ES0109792012",
+      "name": "ARCANO EARTH FUND II, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 299,
+      "isin": "ES0109792020",
+      "name": "ARCANO EARTH FUND II, FCR   \"C1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 300,
+      "isin": "ES0109792038",
+      "name": "ARCANO EARTH FUND II, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 301,
+      "isin": "ES0109792046",
+      "name": "ARCANO EARTH FUND II, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 302,
+      "isin": "ES0109792053",
+      "name": "ARCANO EARTH FUND II, FCR   \"C2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 303,
+      "isin": "ES0109792061",
+      "name": "ARCANO EARTH FUND II, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 304,
+      "isin": "ES0109792079",
+      "name": "ARCANO EARTH FUND II, FCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 305,
+      "isin": "ES0109792087",
+      "name": "ARCANO EARTH FUND II, FCR   \"C3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 306,
+      "isin": "ES0109792095",
+      "name": "ARCANO EARTH FUND II, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 307,
+      "isin": "ES0109792103",
+      "name": "ARCANO EARTH FUND II, FCR   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 308,
+      "isin": "ES0109792111",
+      "name": "ARCANO EARTH FUND II, FCR   \"C4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 309,
+      "isin": "ES0109792129",
+      "name": "ARCANO EARTH FUND II, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 310,
+      "isin": "ES0109792137",
+      "name": "ARCANO EARTH FUND II, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 311,
+      "isin": "ES0109792145",
+      "name": "ARCANO EARTH FUND II, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 312,
+      "isin": "ES0109792152",
+      "name": "ARCANO EARTH FUND II, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 318,
+      "isin": "",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 319,
+      "isin": "ES0109777005 ",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 320,
+      "isin": "ES0109777013",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 321,
+      "isin": "ES0109777021",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 322,
+      "isin": "ES0109777039",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 323,
+      "isin": "ES0109777047",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 324,
+      "isin": "ES0109777054",
+      "name": "ARCANO IMPACT PRIVATE EQUITY, SCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 330,
+      "isin": "",
+      "name": "BALBOA VENTURE INVESTMENTS, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 331,
+      "isin": "ES0115277008",
+      "name": "BALBOA VENTURE INVESTMENTS, SCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 337,
+      "isin": "",
+      "name": "ARCANO SECONDARY XIV, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 338,
+      "isin": "ES0109745002",
+      "name": "ARCANO SECONDARY XIV, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 339,
+      "isin": "ES0109745010 ",
+      "name": "ARCANO SECONDARY XIV, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 340,
+      "isin": "ES0109745028",
+      "name": "ARCANO SECONDARY XIV, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 341,
+      "isin": "ES0109745036",
+      "name": "ARCANO SECONDARY XIV, SCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 342,
+      "isin": "ES0109745044 ",
+      "name": "ARCANO SECONDARY XIV, SCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 348,
+      "isin": "",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 349,
+      "isin": "ES0109837007",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 350,
+      "isin": "ES0109837015",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 351,
+      "isin": "ES0109837023",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 352,
+      "isin": "ES0109837031",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 353,
+      "isin": "ES0109837049",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 354,
+      "isin": "ES0109837056",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"B5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 355,
+      "isin": "ES0109837064",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 356,
+      "isin": "ES0109837072",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"B6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 357,
+      "isin": "ES0109837080",
+      "name": "ARCANO SECONDARY CAPITAL INVESTMENTS XIV, SCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 363,
+      "isin": "",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 364,
+      "isin": "ES0109742009",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 365,
+      "isin": "ES0109742017",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 366,
+      "isin": "ES0109742025",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 367,
+      "isin": "ES0109742033",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 368,
+      "isin": "ES0109742041",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 369,
+      "isin": "ES0109742058",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 370,
+      "isin": "ES0109742066",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 371,
+      "isin": "ES0109742074",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 372,
+      "isin": "ES0109742082",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 373,
+      "isin": "ES0109742090",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 374,
+      "isin": "ES0109742108",
+      "name": "ARCANO IMPACT PRIVATE EQUITY FUND, FCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 380,
+      "isin": "",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 381,
+      "isin": "ES0109726002",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 382,
+      "isin": "ES0109726010",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 383,
+      "isin": "ES0109726028",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 384,
+      "isin": "ES0109726044",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 385,
+      "isin": "ES0109726036",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 386,
+      "isin": "",
+      "name": "ARCANO CAPITAL INVESTMENTS AC XII, SCR   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 391,
+      "isin": "",
+      "name": "ARCANO LABS, SCA   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 392,
+      "isin": "LU2033398103",
+      "name": "ARCANO LABS, SCA   \"A\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 393,
+      "isin": "LU2033398368 ",
+      "name": "ARCANO LABS, SCA   \"B\"   (USD) ",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 394,
+      "isin": "LU2033398442 ",
+      "name": "ARCANO LABS, SCA   \"C\"   (USD) ",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 395,
+      "isin": "LU2033398798",
+      "name": "ARCANO LABS, SCA   \"MGMT\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 396,
+      "isin": "LU2033398871",
+      "name": "ARCANO LABS, SCA   \"SEED\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 402,
+      "isin": "",
+      "name": "ARCANO VENTURES II, SCA   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 403,
+      "isin": "LU2120099465",
+      "name": "ARCANO VENTURES II, SCA   \"ORD.SHS.\"   (USD)",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 409,
+      "isin": "",
+      "name": "ARCANO VENTURES, LP   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 410,
+      "isin": "",
+      "name": "ARCANO VENTURES, LP",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 416,
+      "isin": "",
+      "name": "ARCANO SELECT FUND A, LP   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 417,
+      "isin": "",
+      "name": "ARCANO SELECT FUND A, LP",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 423,
+      "isin": "",
+      "name": "ARCANO KRS FUND, LP   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 424,
+      "isin": "",
+      "name": "ARCANO KRS FUND, LP",
+      "bbgTicker": "",
+      "currency": { "code": 2, "name": "USD", "bbgTicker": "EURUSD Curncy" }
+    },
+    {
+      "ariaId": 460,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 461,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"B4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 462,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 463,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A8\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 464,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 469,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 470,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 471,
+      "isin": "",
+      "name": "ARCANO SECONDARY FUND XIV, S.C.A. SICAR.   \"A10\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 474,
+      "isin": "",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 475,
+      "isin": "ES0109727000",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 476,
+      "isin": "ES0109727018",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 477,
+      "isin": "ES0109727026",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 478,
+      "isin": "ES0109727034",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 479,
+      "isin": "ES0109727042",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 480,
+      "isin": "ES0109727059",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 481,
+      "isin": "ES0109727067",
+      "name": "ARCANO EARTH 2021 SCR, S.A.   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 487,
+      "isin": "",
+      "name": "ARCBLUE SOLAR, SICC, S.A.   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 488,
+      "isin": "ES0109855009",
+      "name": "ARCBLUE SOLAR, SICC, S.A.   \"A\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 489,
+      "isin": "ES0109855017",
+      "name": "ARCBLUE SOLAR, SICC, S.A.   \"B\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 499,
+      "isin": "",
+      "name": "ARCANO SECONDARY INVESTMENTS XIV SCR, S.A.   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 500,
+      "isin": "ES0109838021",
+      "name": "ARCANO SECONDARY INVESTMENTS XIV SCR, S.A.   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 508,
+      "isin": "ES0109838013",
+      "name": "ARCANO SECONDARY INVESTMENTS XIV SCR, S.A.   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 509,
+      "isin": "ES0109838039",
+      "name": "ARCANO SECONDARY INVESTMENTS XIV SCR, S.A.   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 510,
+      "isin": "ES0109838047",
+      "name": "ARCANO SECONDARY INVESTMENTS XIV SCR, S.A.   \"A9\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 511,
+      "isin": "",
+      "name": "BALBOA VENTURES II, FCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 512,
+      "isin": "ES0168064006",
+      "name": "BALBOA VENTURES II, FCR   \"A1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 513,
+      "isin": "ES0168064014",
+      "name": "BALBOA VENTURES II, FCR   \"B1\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 514,
+      "isin": "ES0168064022",
+      "name": "BALBOA VENTURES II, FCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 515,
+      "isin": "ES0168064030",
+      "name": "BALBOA VENTURES II, FCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 516,
+      "isin": "ES0168064048",
+      "name": "BALBOA VENTURES II, FCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 517,
+      "isin": "ES0168064055",
+      "name": "BALBOA VENTURES II, FCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 518,
+      "isin": "ES0168064063",
+      "name": "BALBOA VENTURES II, FCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 519,
+      "isin": "ES0168064071",
+      "name": "BALBOA VENTURES II, FCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 520,
+      "isin": "ES0168064089",
+      "name": "BALBOA VENTURES II, FCR   \"A6\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 521,
+      "isin": "ES0168064097",
+      "name": "BALBOA VENTURES II, FCR   \"A7\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 522,
+      "isin": "",
+      "name": "BALBOA VC INVESTMENTS II SCR   (FUND)",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 523,
+      "isin": "ES0117630006",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"A2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 524,
+      "isin": "ES0117630014",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"B2\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 525,
+      "isin": "ES0117630022",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"A3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 526,
+      "isin": "ES0117630030",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"B3\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 527,
+      "isin": "ES0117630048",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"A4\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    },
+    {
+      "ariaId": 528,
+      "isin": "ES0117630055",
+      "name": "BALBOA VC INVESTMENTS II SCR   \"A5\"",
+      "bbgTicker": "",
+      "currency": { "code": 1, "name": "EUR" }
+    }
+  ]
+}

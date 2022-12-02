@@ -1,60 +1,79 @@
 package pl.piomin.services.department.model;
 
 import java.util.ArrayList;
+import java.util.Currency;
 import java.util.List;
 
 public class Department {
 
-	private Long id;
-	private Long organizationId;
-	private String name;
-	private List<Employee> employees = new ArrayList<>();
+			private Long ariaId;
+			private String isin;
+			private String name;
+			private String bbgTicker;
+			private Currency currency;
 
-	public Department() {
-		
-	}
+			public Department() {
 
-	public Department(Long organizationId, String name) {
-		super();
-		this.organizationId = organizationId;
-		this.name = name;
-	}
+			}
 
-	public Long getId() {
-		return id;
-	}
+			public Department(Long ariaId, String isin, String name, String bbgTicker, Currency currency) {
+				this.ariaId = ariaId;
+				this.isin = isin;
+				this.name = name;
+				this.bbgTicker = bbgTicker;
+				this.currency = currency;
+			}
 
-	public void setId(Long id) {
-		this.id = id;
-	}
+			public Long getAriaId() {
+						return ariaId;
+			}
 
-	public Long getOrganizationId() {
-		return organizationId;
-	}
+			public String getIsin() {
+				return isin;
+			}
 
-	public void setOrganizationId(Long organizationId) {
-		this.organizationId = organizationId;
-	}
+			public String getName() {
+				return name;
+			}
 
-	public String getName() {
-		return name;
-	}
+			public String getBbgTicker() {
+				return bbgTicker;
+			}
 
-	public void setName(String name) {
-		this.name = name;
-	}
+			public Currency getCurrency() {
+				return currency;
+			}
 
-	public List<Employee> getEmployees() {
-		return employees;
-	}
+			public void setAriaId(Long ariaId) {
+				this.ariaId = ariaId;
+			}
 
-	public void setEmployees(List<Employee> employees) {
-		this.employees = employees;
-	}
+			public void setIsin(String isin) {
+				this.isin = isin;
+			}
 
-	@Override
-	public String toString() {
-		return "Department [id=" + id + ", organizationId=" + organizationId + ", name=" + name + "]";
-	}
+			public void setName(String name) {
+				this.name = name;
+			}
 
+			public void setBbgTicker(String bbgTicker) {
+				this.bbgTicker = bbgTicker;
+			}
+
+			public void setCurrency(Currency currency) {
+				this.currency = currency;
+			}
+
+			@Override
+			public String toString() {
+				return "Department{" +
+						"ariaId=" + ariaId +
+						", isin='" + isin + '\'' +
+						", name='" + name + '\'' +
+						", bbgTicker='" + bbgTicker + '\'' +
+						", currency=" + currency +
+						'}';
+			}
 }
+
+

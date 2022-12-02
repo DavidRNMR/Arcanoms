@@ -9,15 +9,15 @@ public class DepartmentRepository {
 
 	private List<Department> departments = new ArrayList<>();
 	
-	public Department add(Department department) {
+	/*public Department add(Department department) {
 		department.setId((long) (departments.size()+1));
 		departments.add(department);
 		return department;
-	}
+	}*/
 	
 	public Department findById(Long id) {
 		return departments.stream()
-				.filter(a -> a.getId().equals(id))
+				.filter(a -> a.getAriaId().equals(id))
 				.findFirst()
 				.orElseThrow();
 	}
@@ -26,10 +26,10 @@ public class DepartmentRepository {
 		return departments;
 	}
 	
-	public List<Department> findByOrganization(Long organizationId) {
+	/*public List<Department> findByOrganization(Long organizationId) {
 		return departments.stream()
 				.filter(a -> a.getOrganizationId().equals(organizationId))
 				.toList();
-	}
+	}*/
 	
 }

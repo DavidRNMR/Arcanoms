@@ -20,7 +20,7 @@ public class DepartmentApplication {
 		SpringApplication.run(DepartmentApplication.class, args);
 	}
 	
-	@Bean
+	/*@Bean
 	DepartmentRepository repository() {
 		DepartmentRepository repository = new DepartmentRepository();
 		repository.add(new Department(1L, "Development"));
@@ -28,6 +28,6 @@ public class DepartmentApplication {
 		repository.add(new Department(2L, "Development"));
 		repository.add(new Department(2L, "Operations"));		
 		return repository;
-	}
+	}*/
 	
 }
